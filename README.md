@@ -1,1 +1,1 @@
-# Infa_2020_KanK
+# Test project. See?
